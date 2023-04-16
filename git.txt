@@ -1,1 +1,2 @@
-Welcome to git
+Welcome to Git and GitHub
+By Abhresh Sugandhi
