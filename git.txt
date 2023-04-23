@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 Welcome to Git and GitHub!!
 In association with Simplilearn Platform!!
 By Abhresh Sugandhi!!
 This course is designed for 
+=======
+Welcome to Git and GitHub
+In association with Simplilearn!!
+By Abhresh Sugandhi!!
+Lets start learning!!
+>>>>>>> Stashed changes
